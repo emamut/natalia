@@ -1,6 +1,11 @@
 body {
   background-color: #a84040;
+  font-family: 'Roboto', sans-serif;
   color: #fff;
+}
+
+h1 {
+  font-family: 'Open Sans', sans-serif;
 }
 
 ul li {
