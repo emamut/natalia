@@ -1,0 +1,12 @@
+body {
+  background-color: #a84040;
+  color: #fff;
+}
+
+ul li {
+  color: aqua;
+}
+
+ol li {
+  color: #009900;
+}
